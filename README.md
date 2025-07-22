@@ -18,6 +18,11 @@ Welcome to my data analytics portfolio! This repository showcases my learning jo
 - Created charts and graphs to visualise total sales per product category
 - Practised creating structured, analysis-ready Excel workbooks
 
+### 📊 Day 2 - Cell Referencing in Excel
+- File: [Day2_Cell_Referencing_RealWorld.xlsx](Day2_Cell_Referencing_RealWorld.xlsx)
+- Concepts covered: Relative & Absolute References
+- Scenario: Salary bonus calculation for employees based on department and performance
+
 ---
 
 ## 🔜 Coming Soon
